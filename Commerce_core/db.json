@@ -1,0 +1,34 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "iPhone 14",
+      "price": 70000,
+      "brand": "Apple",
+      "rating": 4.8,
+      "category": "Mobile"
+    },
+    {
+      "id": "2",
+      "name": "Samsung S23",
+      "price": 65000,
+      "brand": "Samsung",
+      "rating": 4.6,
+      "category": "Mobile"
+    },
+    {
+      "id": "3",
+      "name": "MacBook Air",
+      "price": 120000,
+      "brand": "Apple",
+      "rating": 4.9,
+      "category": "Laptop"
+    },
+    {
+      "name": "shirt",
+      "price": "200",
+      "id": "oRooTI_XaNc"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
